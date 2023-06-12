@@ -3,10 +3,9 @@ uuid = "acb0d125-cce6-46cb-8df6-c73c58411133"
 authors = ["ZhengdaoLI0602 "]
 version = "0.1.0"
 
-
 [deps]
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
-
 
 [compat]
 StaticArrays = "1.5"
