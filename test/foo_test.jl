@@ -2,7 +2,8 @@
 
 # using NewPackage
 using Test
-include("../src/foo.jl")
+include("../src/foo.jl")  
+
 
 @testset "Foo test" begin
     v = NewPackage.foo(10, 5)
